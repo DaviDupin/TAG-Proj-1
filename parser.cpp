@@ -11,7 +11,7 @@ vector<vector<int>> generateGraph()
     ifstream file;
     
     //Open specified .GraphModellingLanguage file
-    file.open("karate.gml");
+    file.open("teste1.gml");
 
     if(!file)
     {
